@@ -1,7 +1,4 @@
 ##########################################################
-# DO NOT DISTRIBUTE ; DO NOT REPRODUCE ; DO NOT SELL   ###
-# FOR EDUCATIONAL PURPOSES ONLY ; BTONG.ME ; COPYRIGHT ###
-##########################################################
 # Coded in Python 3.5.0 -- Will not run in Py2  ####
 ####################################################
 # Needed for the game to function. ##
